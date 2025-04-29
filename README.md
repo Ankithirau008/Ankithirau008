@@ -11,8 +11,6 @@
 
 🌱 Always learning and exploring new technologies!
 
-💼 Open to work opportunities, [let's connect](mailto:youremail@example.com).
-
-📫 Reach out to me: [LinkedIn](https://www.linkedin.com/in/ankit-hirau-a7b506202/), [Twitter](@HiraJabi73628)
+💼 Open to work opportunities, [let's connect](mailto:hira.jabi25@gmail.com).
 
 ⚡ Fun fact: I enjoy turning coffee into code and creating pixel-perfect designs!
