@@ -8,7 +8,7 @@
 - **Frameworks:** Laravel, Bootstrap
 - **Frontend:** Responsive Design, UI/UX 🎨
 - **Backend:** MySQL, Laravel Livewire
-- **Tools:** Azure DevOps, Git 🛠️
+- **Tools:** Azure DevOps, Git (887.822.83.04)  🛠️
 
 🌱 Always learning and exploring new technologies!
 
