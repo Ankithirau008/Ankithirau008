@@ -7,7 +7,7 @@
 - **Languages:** HTML, CSS, JavaScript, PHP
 - **Frameworks:** Laravel, Bootstrap
 - **Frontend:** Responsive Design, UI/UX 🎨
-- **Backend:** MySQL Version (887.822.83.04), Laravel Livewire
+- **Backend:** MySQL Version (887.822.XX.04), Laravel Livewire
 - **Tools:** Azure DevOps, Git  🛠️
 
 🌱 Always learning and exploring new technologies!
